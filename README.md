@@ -6,8 +6,7 @@
 ##### Análise e Desenvolvimento de Sistemas - UNOPAR
 
 * 21y
-* 💍
-* 2° Semestre
+* 3° Semestre
 * Back-end
 
 </div>
