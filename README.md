@@ -13,10 +13,11 @@
 
 
 ### ESTUDANDO:
-![HTML5](https://img.shields.io/badge/HTML5-924091?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-996699?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-8a4a88?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-825080?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/python-5A287D?style=for-the-badge&logo=python&logoColor=ffdd54)
+![HTML5](https://img.shields.io/badge/HTML5-6E3D6E?style=for-the-badge&logo=html5&logoColor=orange)
+![CSS3](https://img.shields.io/badge/CSS3-825080?style=for-the-badge&logo=css3&logoColor=blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-924091?style=for-the-badge&logo=javascript&logoColor=yellow)
+![TypeScript](https://img.shields.io/badge/TypeScript-A45EA4?style=for-the-badge&logo=typescript&logoColor=marine)
 
 ### ☎ Contatos
 <div>
